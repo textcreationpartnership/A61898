@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the king and both houses of Parliament who are desired to read over this following treatise and in the fear and wisdom of the pure holy God to consider, and lay to heart what is contained therein and in tender bowels of compassion to repair the great breaches that are made all over the nation : and to grant a speedy redress, now, while it is in your power / given forth in the spirit of love and meekness and written by John Stubbs.</title>
+            <author>Stubbs, John, 1618?-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61898</idno>
+            <idno type="STC">Wing S6070</idno>
+            <idno type="STC">ESTC R42228</idno>
+            <idno type="EEBO-CITATION">24565616</idno>
+            <idno type="OCLC">ocm 24565616</idno>
+            <idno type="VID">109711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109711)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1709:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the king and both houses of Parliament who are desired to read over this following treatise and in the fear and wisdom of the pure holy God to consider, and lay to heart what is contained therein and in tender bowels of compassion to repair the great breaches that are made all over the nation : and to grant a speedy redress, now, while it is in your power / given forth in the spirit of love and meekness and written by John Stubbs.</title>
+                  <author>Stubbs, John, 1618?-1674.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109711:1"/>
+            <pb facs="tcp:109711:1" rendition="simple:additions"/>
+            <p>FOR THE King and both Houſes OF PARLIAMENT. Who are deſired to read over this fol<g ref="char:EOLhyphen"/>lowing Treatiſe, and in the Fear and Wiſdom of the pure holy God to conſider, and lay to heart what is contained therein. And in tender Bowels of Compaſſion to Repair the great Breaches that are made all over the Nation. And to grant a Speedy Redreſs, now, while it is in your power.</p>
+            <p>Given forth in the Spirit of Love and Meekneſs; And written by <hi>John Stubbs.</hi>
+            </p>
+            <q>Bleſſed are the Mercifull, for they ſhall obtain Mercy,
+<bibl>
+                  <hi>Matth. 5.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:109711:2"/>
+            <pb n="3" facs="tcp:109711:2"/>
+            <head>For the King and hoth Houſes of Parliament.</head>
+            <p>ALL ye that go under the Name of Chriſtians, which are after Chriſt, and not after Old <hi>Adam</hi> in the Fall; Chriſts command to ſuch is to love Enemies, <hi>Matth.</hi> 5.44. then not to deſtroy them: So not one Chriſtian to deſtroy another about Religion; for Chriſt came <hi>not to deſtroy mens lives, but to ſave them,</hi> Luke 9.54.55. <hi>And God ſo loved the World, that he gave his only begotten Son into the World,</hi> not to de<g ref="char:EOLhyphen"/>ſtroy the World, but that the World through him might have life, <hi>John</hi> 3.16, 17. The Devil is called a Deſtroyer, <hi>Rev.</hi> 9.11. and Jeſus a Saviour, <hi>Matth.</hi> 1.20. And was not <hi>Cain</hi> the firſt that perſecuted his Brother about Religion, <hi>Gen.</hi> 4. And are ye not all Brethren, <hi>Matth.</hi> 23.8. firſt, as you are in <hi>Adam;</hi> ſe<g ref="char:EOLhyphen"/>condly, as you are in Chriſt Jeſus; and Sons of God by creati<g ref="char:EOLhyphen"/>on, and Sons of God by adoption; and therefore, why ſhould you deſtroy one another, who are of the Image of God? for all look upon <hi>Cain,</hi> that he was a wicked man, that perſecuted his Brother to death, about Religion: And you know the Scrip<g ref="char:EOLhyphen"/>ture ſaith, <hi>He that envies his Brother is a man-ſlayer,</hi> 1 Iohn 3. and <hi>no man-ſlayer hath Eternal Life abiding in him;</hi> and therefore love one another, for love is of God; and he that loveth not, is not of God; and he that hateth his Brother abideth in death; ſo he cannot be in Chriſt the Life, ſee the Epiſtles of <hi>John.</hi> And he that is born of the Fleſh will perſecute him that is born of the Spirit, <hi>Gal.</hi> 4.29. and therefore caſt forth that birth that will perſecute; for he that is born of the Spirit cannot joyn with that Spirit that is born of the Fleſh; for if he could, he ſhould not be perſecuted.</p>
+            <p>Its mighty ſtrange that Chriſt Jeſus and his Apoſtles ſhould command ſo much for Chriſtians to love one another, who ſaith, <hi>If they have the gift of Healing, and Propheſies, and divers kinds of
+<pb n="4" facs="tcp:109711:3"/>Tongues, and interpretation of Tongues, &amp;c.</hi> 1 Cor. 12.10. <hi>And if they have not love, they are but like ſounding Braſs, or a tinkling Cymbal.</hi>
+            </p>
+            <p>So what is all <hi>Chriſtendom,</hi> that doth hate and perſecute one another about Religion, but like the ſounding Braſs and tink<g ref="char:EOLhyphen"/>ling Cimbals, though they have Gifts, and Tongues, and want love. <hi>And though they give their goods to feed the poor, and their bo<g ref="char:EOLhyphen"/>dies to be burned; yet if they have not love, they are but tinckling Cymbals,</hi> 1 <hi>Cor.</hi> 13.</p>
+            <p>And doth not Chriſt ſay, <hi>Let the Tares and the Wheat grow to<g ref="char:EOLhyphen"/>gether until the Harveſt;</hi> he knew men would be buſie to meddle with that they ſhould not do; and therefore he forbids to med<g ref="char:EOLhyphen"/>dle, leſt they ſhould pluck up the Wheat with the Tares, <hi>Matth.</hi> 13.30, 38, &amp;c.</p>
+            <p>And alſo you know, how Chriſt in that Parable reproved him that took his Brother by the Throat, <hi>Matth.</hi> 18.28. and tells the <hi>Jews</hi> in <hi>Matth.</hi> 21. of their perfecution, in that Parable of the Houſholder, how that he had ſent out his Servants to the Huſ<g ref="char:EOLhyphen"/>bandman; and how they beat one, and killed another, and ſto<g ref="char:EOLhyphen"/>ned another; and at laſt he ſent unto him his Son, ſaying, <hi>They will reverence my Son:</hi> But they caught him, and caſt him out of the Vineyard, and ſlew him alſo: and ſo what became of thoſe Husbandmen.</p>
+            <p>And are not the Sheep on the right hand, but the Goats on the left hand, that perſecutes, and that doth not viſit Chriſt in Priſon in his Members, who were ſick, &amp; who were hungry &amp; who were naked, and they did not viſit him: And if they went into everlaſting Puniſhment that did not viſit him in Priſon, what will become of them that caſts into Priſon where he is made manifeſt, and ſuffers for his Sake. See <hi>Math.</hi> 25.</p>
+            <p>And ſo in the Light and Fear of God conſider theſe things, before it be too late, in your day; and in the Bowelsand Mer<g ref="char:EOLhyphen"/>cies of Chriſt Jeſus, lay things to Heart.</p>
+            <p>And be not ſpurred on by the chief Prieſts and Biſhops to Per<g ref="char:EOLhyphen"/>ſecution;
+<pb n="5" facs="tcp:109711:3"/>for was it not the Prieſts and falſe Prophets that ſtir<g ref="char:EOLhyphen"/>red up the Kings and Princes againſt <hi>Jeremiah,</hi> to caſt him into Priſon, and into the Dungeon? And what became of thoſe Prieſts and falſe Prophets? And alſo, What became of the King and Princes, that were ſtirred up by them, when <hi>Nebuchadnezar</hi> came and found <hi>Jeremiah</hi> in priſon. See <hi>Jeremiah</hi> chap. 37, 38. and 43.</p>
+            <p>And was it not the falſe Prophets that ſtirred up <hi>Ahah</hi> againſt <hi>Micaiah?</hi> 1 <hi>King.</hi> 22.24. &amp;c.</p>
+            <p>And was it not <hi>Amaziah</hi> the Prieſt of <hi>Bethel,</hi> that ſtirred up <hi>Jero<g ref="char:EOLhyphen"/>boam</hi> King of <hi>Iſrael</hi> againſt <hi>Amos,</hi> and ſaid he had ſpoken Treaſon againſt the King? <hi>Amos</hi> 7.10.</p>
+            <p>And was it not the chief Prieſts and Elders, that ſtirred up the Magiſtrates and people againſt Chriſt, as you may read in the <hi>Evangelliſts:</hi> And how they perſwaded <hi>Pilate</hi> to Crucifie Je<g ref="char:EOLhyphen"/>ſus, the Son of the Living God, who is the Original of Chri<g ref="char:EOLhyphen"/>ſtianity?</p>
+            <p>And did not Chriſt ſay, That they ſhould hale the Diſciples out of their Synagogues? <hi>John</hi> 16.2. And the chief Prieſts and Phariſees ſhould be againſt Chriſt Jeſus?</p>
+            <p>And did not Chriſt Weep over <hi>Jeruſalem,</hi> and tell them, <hi>That the Blood of</hi> Abel <hi>to</hi> Zacharias <hi>would come upon that Generation?</hi> Mat. 23.35, 36, 37.</p>
+            <p>And as you may read in the latter end of the four <hi>Evangeliſts,</hi> what Counſels the chief Prieſts had with the Elders, to raiſe up Accuſations againſt Jeſus, and ſaid he was againſt <hi>Caſar.</hi> And was not the chief Prieſts his greateſt Enemy, from his Birth, to the very day of his Crucifixion? and was it not the chief Prieſts that cryed out all at once, ſaying, <hi>Away with this man, and releaſe unto us</hi> Barrabas. <hi>John</hi> 23.18.</p>
+            <p>And did not the chief Prieſts and the Scribes Mock him, ſaying, <hi>He ſaved others, himſelf he cannot ſave?</hi> Mark 15.31.</p>
+            <p>And when they had Crucified him, was it not the chief Prieſts and Phariſees that came unto <hi>Pilate, Mathew</hi> 27.62. Saying, Sir, we remember that that Deceiver ſaid, while he was yet alive, After Three Dayes I will Riſe again. <hi>Command therefore that the Sepulere be made ſure until the</hi> 3d <hi>day, leaſt his Diſciples come by
+<pb n="6" facs="tcp:109711:4"/>night, and ſteal him away, and ſay unto the People he is riſen from the dead; ſo the laſt error ſhall be worſe then the firſt.</hi>
+            </p>
+            <p>And when he was riſen, did not the chief Prieſts perſwade the Souldiers to ſay, That his Diſciples had ſtole him away by night, <hi>Matth.</hi> 28.13.</p>
+            <p>And it was the chief Prieſts, with the Elders, that gave large mony to the Souldiers to ſay ſo, <hi>verſ.</hi> 12.</p>
+            <p>And ſo all along throughout <hi>Matthew, Mark, Luke</hi> &amp; <hi>John,</hi> you may ſee it was the chief Prieſts that were Chriſts greateſt Ene<g ref="char:EOLhyphen"/>mies; not the meaneſt of them, but the chief; and ſo it is now.</p>
+            <p>Do not the Biſhops, and Prebends, and chief of the Prieſts ſtir up Perſecution now againſt the people of God.</p>
+            <p>Did not Chriſts words come to paſs upon the <hi>Jews,</hi> and upon <hi>Jeruſalem,</hi> when <hi>Titus</hi> came againſt them about forty years af<g ref="char:EOLhyphen"/>ter Chriſts Aſcenſion.</p>
+            <p>And was it not by the chief Prieſts Order and Authority that <hi>Saul</hi> went with his Packet of Letters to hale thoſe that were Believers and Followers of Chriſt to priſon, <hi>Acts</hi> 9.</p>
+            <p>And do they not do ſo now, with their Paraters and Infor<g ref="char:EOLhyphen"/>mers, by order from their Biſhops and chief Prieſts.</p>
+            <p>Now conſider theſe things in the tender Bowels and Mercies of God, for we would not have the Magiſtrates ridden upon, nor ſpurred up by the chief Prieſts nor Biſhops to perſecution; but we would have them provoked to love and good works, that they may be a praiſe to them that do well, and a Terror to the Evil Doer, <hi>Rom.</hi> 13.</p>
+            <p>And was it not the high Prieſt that examined <hi>Stephen</hi> when the falſe Witneſſes came againſt him, where you know he was ſtoned death, <hi>Acts</hi> 7.</p>
+            <p>And was it not the chief Prieſts and Elders that cauſed the Apoſtles to be whipped ſo, as you may ſee in the Acts all along.</p>
+            <p>And you may ſee there how much the chief Prieſts were a<g ref="char:EOLhyphen"/>gainſt the Apoſtle <hi>Paul,</hi> after he was converted and had forſa<g ref="char:EOLhyphen"/>ken them, and followed Chriſt Jeſus who is a Prieſt for ever made higher then the Heavens, <hi>Hebr.</hi> 7.26.</p>
+            <pb n="7" facs="tcp:109711:4"/>
+            <p> And ſo all along you may ſee in every Age, ſince the Pope got up; how Perſecution hath been ſtirred up by the Prieſts.</p>
+            <p>In the other Powers dayes, Did not the Prieſts give <hi>Oliver</hi> high titles; and the <hi>Presbyterian</hi> Prieſts, and <hi>Independants</hi> made Petitions and Addreſſes to him for Peſecution.</p>
+            <p>And then in his Son <hi>Richards</hi> dayes, Did not the <hi>Presbyterian</hi> Prieſts and <hi>Independants</hi> petition againſt us, that we might be perſecuted; and called him their <hi>Ioſhua:</hi> So that many thouſands of our Friends in his time were impriſoned; beſides the unrea<g ref="char:EOLhyphen"/>ſonable havock they made, in ſpoiling of their goods; and about forty ſuffered Death in that day, by cruel impriſonments; but the Lord hath been our Preſerver and Helper, who had no Helper in the Earth; whom (ever ſince we were a People) the Prieſts of all ſorts would have rooted us out of the Earth.</p>
+            <p>Therefore we would deſire, for your eternal good to conſider theſe things: For <hi>Caeſar,</hi> that is, the Magiſtrate muſt have his due, which is the Tribute and Cuſtom; and God muſt have his due, that is, the Rule in the Conſcience, and in the heart, and his Worſhip that is in Spirit and Truth, <hi>Iohn</hi> 14.24.</p>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:109711:5"/>
+            <head>Now concerning Liberty:</head>
+            <p>
+               <hi>MOſes,</hi> who was a Magiſtrate, and a Judge, and a Pro<g ref="char:EOLhyphen"/>phet, he did not reſtrain others from Propheſying. but ſaid, <hi>Oh, that all the Lords People were Prophets, Numb.</hi> 11.29. He did not ſay, It would deſtroy the Go<g ref="char:EOLhyphen"/>vernment, if they did preach in the Camp: He did not ſay, It would make Riots, and Routs; but ſaid, <hi>Oh, that all the Lords People were Prophets!</hi>
+            </p>
+            <p>
+               <hi>Abraham</hi> dwelt among the <hi>Canaanites</hi> a long time, yet contrary to them in Religion, <hi>Gen.</hi> 13.7. and 16.13. again he ſojourned in <hi>Gerar,</hi> and King <hi>Abimeleck</hi> gave him leave to dwell in his Land, <hi>Gen.</hi> 20.21, 23, 24.</p>
+            <p>And alſo <hi>Iſaac</hi> had Liberty to ſojourn in thoſe parts, <hi>Gen.</hi> 26.</p>
+            <p>But you do not read that they were forced by them with whom they ſojourned, to be of their Religion.</p>
+            <p>
+               <hi>Jacob</hi> lived twenty years in one Houſe, with his Uncle <hi>Laban,</hi> yet differed in Religion, <hi>Gen.</hi> 31.</p>
+            <p>Neither was <hi>Lot</hi> forced to the <hi>Sodomites</hi> Religion.</p>
+            <p>Neither do you read any of the <hi>Pharaohs,</hi> during the Children of <hi>Iſraels</hi> ſojourning there, <hi>Exodus</hi> 12. forced them to be of their Religion; but it was his own oppreſſing mind, to ſet them at work, that made him to keep them there; and ſo he would not let them go forth, to worſhip God, till the Ten Plagues came upon him.</p>
+            <p>Neither did any of the Emperors compel the <hi>Iſraelites</hi> to be of their Religion during their ſeventy years Cap<g ref="char:EOLhyphen"/>tivity.</p>
+            <pb n="9" facs="tcp:109711:5"/>
+            <p> And <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> he encouraged the Jews to build a Tem<g ref="char:EOLhyphen"/>ple though he was different concerning their Religion.</p>
+            <p>And <hi>Darius</hi> and <hi>Cyrus,</hi> ſee their tenderneſs, though they were <hi>Heathens;</hi> they were tender to the <hi>Jews,</hi> and gave them Liberty to worſhip the God of Heaven, though there were many that did inform againſt them; and ſaid, <hi>Their Ci<g ref="char:EOLhyphen"/>ty had been a Rebellious City.</hi> Ezra 4.12.15.</p>
+            <p>And the three Children in <hi>Nebuchadnezars</hi> time were per<g ref="char:EOLhyphen"/>ſecuted, becauſe they would not joyn, nor fall down to wor<g ref="char:EOLhyphen"/>ſhip that great Image they made; read <hi>Daniel.</hi>
+            </p>
+            <p>So what was of man, and mans making, man was not to fall down to that, becauſe it was the work of mans hands; and have they not been making Religions ever ſince the Pa<g ref="char:EOLhyphen"/>piſts got up.</p>
+            <p>And doth not the pure Religion come down from above from God, which all is to fall down to, and worſhip, which is in Spirit and Truth, <hi>Jam.</hi> 1.27.</p>
+            <p>And <hi>Daniel</hi> he had Liberty to worſhip God in <hi>Babylon,</hi> though his worſhip were contrary to the Emperors; and and prayed, as at other times, notwithſtanding the Empe<g ref="char:EOLhyphen"/>rors Decree, till thoſe wicked Informers roſe up againſt him, but mark their end, ſee <hi>Daniel</hi> 6.</p>
+            <p>And ſo its very much how people that are called Chri<g ref="char:EOLhyphen"/>ſtians can ſay the Lords Prayer, that are ſo full of envy, and ſay <hi>Forgive us as we forgive them that treſpaſs againſt us,</hi> and have ſo much enmity and hatred in their hearts one againſt another? Do they think to be forgiven that do not for<g ref="char:EOLhyphen"/>give? Doth not Chriſt ſay, they muſt be reconciled to their Brother before they can offer their Gifts to God? <hi>Matth.</hi> 5. And what have they againſt thoſe people called <hi>Quakers,</hi> but in matters concerning their God? and becauſe they pray to God, and worſhip him in Spirit and Truth,
+<pb n="10" facs="tcp:109711:6"/>in that Worſhip that Chriſt himſelf ſet up above ſixteen hundred years ago, ſee <hi>J<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 4.20, 21, <hi>&amp;c.</hi>
+            </p>
+            <p>Do not the Quakers love Enemies? <hi>Matth.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.44.</p>
+            <p>Do they not bear all things, 1 <hi>Cor.</hi> 13.7.</p>
+            <p>Are they not the beſt Tenants that the great men in the Nation have. And do they not deal truely with you in their Shops, and Merchandizing? and in then Commerce are they not at one word with you?</p>
+            <p>Why ſhould they be chaſed and courſed up and down, like a Partridge upon the Mountains.</p>
+            <p>And why ſhould the Prieſts and Biſhops be againſt them? Is it not only becauſe we cannot pay them Tythes?</p>
+            <p>And is not the Prieſthood changed that took Tythes; and the Commandment diſannull'd that gave him his Tythes? read <hi>Hibrews</hi> 7.</p>
+            <p>And doth not Chriſt ſay to his Miniſters, Embaſſadors, Teachers and Diſciples; <hi>Freely ye have received, freely give? Matth.</hi> 10. And he bids them <hi>Go into all Nations, and he would be with them;</hi> and if he be with them, that's enough; then they need neither to ſeek for Bag nor Scrip.</p>
+            <p>Now where are there any of your Biſhops or Prieſts that goes freely, and preacheth freely? Is not this Com<g ref="char:EOLhyphen"/>mand of Chriſt's with them thrown away; becauſe it brings in no gain? who ſaith, <hi>Freely ye have received, freely give.</hi>
+            </p>
+            <p>And in <hi>Matth.</hi> 10.12. Chriſt tells them, <hi>When they en<g ref="char:EOLhyphen"/>ter into any Houſe, they are to ſalute it,</hi> ſaying, <hi>Peace be unto this Houſe, and what they ſet before them that they may eat, &amp;c.</hi> He doth not ſay, <hi>You ſhall ſend Conſtables, Parrators, and Informers to ranſack and ſpoil the Houſe;</hi> neither doth he ſay, <hi>You muſt give me two or three hundred a year.</hi>
+            </p>
+            <p>And doth not the Apoſtle ſay, 1 <hi>Tim.</hi> 3. <hi>That a Biſhop
+<pb n="11" facs="tcp:109711:6"/>muſt be Blameleſs, not given to Wine; no Striker; not greedy of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> not a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not Covetous, and he muſt be Gentle, and apt to Teach.</hi>
+            </p>
+            <p>
+               <hi>And he muſt not covet mens Silver, nor Gold, nor Apparel,</hi> Acts 20.33. <hi>but to keep the Goſpel without charge:</hi> was not this the practice of the Apoſtles, <hi>to keep the Goſpel without charge,</hi> 1 <hi>Cor.</hi> 9.18.</p>
+            <p>But do theſe Prieſts and Biſhops ſo, that caſt into priſon for Tythes, and ſuch things? Do not thoſe mind earthly things; and ſuch <hi>ſeek not the Lord Jeſus, but their own Bel<g ref="char:EOLhyphen"/>lies,</hi> Rom. 16.18. which have from a hundred a year, to a thouſand; and the Biſhops have ſeveral thouſands.</p>
+            <p>Do you think the Prieſts and Biſhops will leave thoſe fat Benefices, and preach the Goſpel to the <hi>Heathen,</hi> freely, in Sheeps-skins, and Goat-skins, as ſome of the holy men have done, ſpoken of in <hi>Hebrews</hi> 11.37. they were not gotten ſo high then as <hi>White-Sleeves, Tippits</hi> and <hi>Hoods.</hi>
+            </p>
+            <p>Now thoſe which have caſt into priſon, and ſpoiled, and ranſacked Houſes; and made havock of peoples Goods; and made many Widdows, and Fatherleſs; and Impriſon<g ref="char:EOLhyphen"/>ed many unto Death: this is not glad Tidings; for the Goſpel is <hi>Glad-Tidings:</hi> ſuch do not keep the Goſpel with<g ref="char:EOLhyphen"/>out charge; theſe do not obey the commands of Chriſt, nor the Apoſtles, which ſaith, <hi>Freely ye have received, freely give,</hi> Matth. 10.8.</p>
+            <p>And unto ſuch we cannot bid God ſpeed, 2 <hi>Jo.</hi> 10: 1. <hi>For while we put into the Prieſts and Biſhops Mouthes, they preached Peace unto us, and bleſſed us; but when we ſee they were out of the Doctrine of Chriſt, and could not put into their Mouthes, then they prepared War againſt us, then they came to biting of us with their Teeth, like Men eaters, and gnawing our fleſh and Bones to the very Marrow,</hi> ſee <hi>Mic.</hi> 3.</p>
+            <pb n="12" facs="tcp:109711:7"/>
+            <p> And alſo <hi>Jer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> 5. who ſaid, <hi>The Prieſts bear Rule by their means, &amp;c. which was a horrible and filthy thing, com<g ref="char:EOLhyphen"/>mitted in the Land:</hi> So conſider what became of them in <hi>Jeremiah</hi>'s dayes, how they went into Captivity.</p>
+            <p>And ſee in <hi>Iſaiah</hi> 56. how they fought for gain from their Quarter; and he calls them <hi>greedy Dogs, and dumb Dogs, and Dogs which cannot bark;</hi> and you know Dogs are ſubject to bite; for I never read that a Sheep bit a Dog, and <hi>they were ſuch as ſought for their gain from their Quarter.</hi>
+            </p>
+            <p>And do not the Prieſts now ſeek for their gain from their Quarter? when a Biſhop is dead, will not another quickly ſeek for his Benefice? yes, it will not be long va<g ref="char:EOLhyphen"/>cant, another will ſay he hath a call, and a motion to go and get anothers Benefice that is dead; and ſo will the Prieſt do, for another Prieſts Benefice that is vacant; eſpecially if it be a fat one, and bigger then his own.</p>
+            <p>And doth not the ſame Prophet, in the ſame chapter call the Watchmen <hi>Time-ſervers?</hi> as in <hi>Junius</hi> and <hi>Tremelius</hi> Tranſlation: and how many Prieſts, in this day, are guilty of this? let Cities and Countries ſpeak?</p>
+            <p>And ſee <hi>Ezekiel</hi> 13.14, 33, and 34. chapters, and there you may ſee now the falſe Shepherds preached for hand<g ref="char:EOLhyphen"/>fulls of Barley, and pieces of Bread; and feeds themſelves; and eats the Fat; and clothes with the Wool; and kills them that are fed; but feeds not the Flock; but he ſpeaks in that thirty fourth chapter, how <hi>the Lord would gather them from their Mouthes, and ſet one Shepherd over them, even Chriſt Jeſus.</hi>
+            </p>
+            <p>Chriſt did not ſet up Tythes nor Augmentations, nor <hi>Eaſter</hi> Reckonings, nor <hi>Midſummerdues;</hi> nor Gleab-Lands in the Worſhip of God, for his Miniſters nor Appſtles; but ſaid, <hi>Freely you have received, freely give.</hi>
+            </p>
+            <pb n="13" facs="tcp:109711:7"/>
+            <p> And the Apoſtles charge was, to keep the Goſpel with<g ref="char:EOLhyphen"/>out charge; and rebuked them that did it, as you, may ſee in his Epiſtles; for God is as free to you in his Spiritual Gifts and Graces, as he is in the things that are Temporal in the Creation.</p>
+            <p>And ſo as I ſaid, Chriſt hath ended that Law which held up Tythes for the Prieſts amongſt the Jews, <hi>He<g ref="char:EOLhyphen"/>brews</hi> 7.</p>
+            <p>And are not thoſe people called <hi>Quakers</hi> more chaſte in their lives and converſations then any; and kept out of Drunkenneſs, Swearing, Oathes, Theft, Fornications, A<g ref="char:EOLhyphen"/>dulteries, Debaucheties, &amp;c. more then any other people?</p>
+            <p>And is not this an caſe to Magiſtrates?</p>
+            <p>And ſhould not the Magiſtrates be a praiſe to them that do well?</p>
+            <p>And yet are not thoſe that do well, as Sheap that are led to the Slaughter?</p>
+            <p>And alſo conſider there are many of thoſe People that are Tradeſmen, as Clothiers, &amp;c. ſome it may be keeps two or three hundred at work; and ſome are Knitters, and other callings and Trades: Now you taking away their Goods, you make them uncapable to mannage their Imployments and Trades whereby they themſelves are not only undone, but many hundreds of poor people are liable to famiſh, having no other way to ſubſiſt, but only their daily labour: and ſo what will become of thoſe poor people they ſet at work, when their Maſters are caſt into Priſon, and their Goods taken away. And beſides, you make our Friends un<g ref="char:EOLhyphen"/>capable to pay the National Taxes; and ſo theſe things hin<g ref="char:EOLhyphen"/>der the King of his Cuſtoms and dues; when people grows poor, how can they pay them? for <hi>the Riches of a People is the honour of a Prince.</hi>
+            </p>
+            <pb n="14" facs="tcp:109711:8"/>
+            <p> And you know <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> than have <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> takes one part, and the King another, and the Poor another; how can the Rents be paid, when the Stocks are taken off the Land? muſt not they be neceſſitated to relinquiſh their Farms?</p>
+            <p>And there are many Merchants and Shop-keepers, what encouragement have they to trade, when they know not but their goods may be taken from them, for worſhipping and ſerving the Living God? and if they have no encou<g ref="char:EOLhyphen"/>ragement, what profit can come to the King?</p>
+            <p>And ſo in the Fear and Wiſdom of God conſider theſe things, that there may be Liberty in the Goſpel, the Power of God; every one ſhould improve their Talent, and their Meaſures, Gifts, and Graces, as good Stewards, 1 <hi>Pet.</hi> 4.10. <hi>And they were not to quench the Spirit, nor deſpiſe Prophe<g ref="char:EOLhyphen"/>ſying</hi>
+            </p>
+            <p>And is it not ſaid, <hi>That in the laſt dayes the Lord would pour out of his Spirits upon all fleſh, and Sons and Daughters ſhould Propheſie; and young men ſhould ſee Viſions, and old men ſhould dream Dreams; and on his Servants and Hand<g ref="char:EOLhyphen"/>maids he would pour out of his Spirit in thoſe dayes, and they ſhould Propheſie,</hi> Joel 2 28. Act, 2.17.18</p>
+            <p>And are not theſe the laſt days? here you ſee the Lord hath promiſed that every one ſhould have ſomething, both Sons and Daughters, Servants and Handmaids ſhould propheſie; and young men ſee Viſions, and old men dream Dreams: So let the Prophets and Propheteſſes tell their propheſies; and let the young men tell their Viſions, and the old men their Dreams, and do no hinder them.</p>
+            <p>Did not Chriſt ſay, <hi>He that did not improve his Talent was to be caſt into utter darkneſs, where ſhould be weeping,
+<pb n="15" facs="tcp:109711:8"/>and wailing, and gnaſhing of Teeth,</hi> Matthew 25.28.</p>
+            <p>And doth not Chriſt ſay, <hi>How the Word was ſown upon all Grounds; and how far it ſprang up in ſome, till Perſection came; and how it ſprang up in others, till the Cares of this life choaked it; and upon the High-way ground, but the Fowles of the Air picked it up; and upon the good ground it was ſown, and it only brought forth from it Perfection,</hi> Matth. 13.19. <hi>&amp;c.</hi>
+            </p>
+            <p>So here Chriſt would let them ſee, and all men, that if they did not improve their Talents, and Gifts, and Graces which the Lord had committed to them, and given them to pro<g ref="char:EOLhyphen"/>fit withal; and to live up to the Word of God in their hearts, that then they ſhould be caſt out and rejected, as unprofitable Servants and Stewards.</p>
+            <p>And ſo I deſire that the Lord may give you an under<g ref="char:EOLhyphen"/>ſtanding.</p>
+         </div>
+         <div type="part">
+            <head>Alſo you may ſee that Perſecution for Conſci<g ref="char:EOLhyphen"/>ence ſake is againſt the Profeſſion of Chriſtian Princes, and likewiſe condemned by the antient and latter Writers.</head>
+            <p>FIrſt, King <hi>James,</hi> in his Speech to his Parliament 1609. ſaith, <hi>It is a ſure Rule in Divinity, that God never loves to plant his Church by Violence and Bloodſhed.</hi>
+            </p>
+            <p>Alſo ſee the ſaid Kings Expoſition on <hi>Revel.</hi> 20. in which he ſaith, <hi>The Compaſsing of the Saints, and the Beſieging of the Beloved City, declareth unto us a certain Note of a falſe Church</hi> to be PERSECUTION; <hi>for they come to ſeek the Faithfull, the Faithfull are them that are ſought; the wick<g ref="char:EOLhyphen"/>ed are the Beſiegers, the Faithfull are the Beſieged.</hi>
+            </p>
+            <pb n="16" facs="tcp:109711:9"/>
+            <p> Secondly, <hi>Stephen</hi> King of <hi>Poland</hi> ſaith thus, <hi>I am King of Man, not of Conſcience, a Commander of Bodies, not of Souls.</hi>
+            </p>
+            <p>Thirdly, the King of <hi>Bohemia</hi> ſaith, <hi>That mens Conſci<g ref="char:EOLhyphen"/>ences ought in no ſort to be violated, urged, or conſtrained.</hi>
+            </p>
+            <p>And further he ſaith, <hi>So that once more we do profeſs before God, and the whole World, that from this time forward we are firmly reſolved not to perſecute or moleſt, or ſuffer to be perſecu<g ref="char:EOLhyphen"/>ted or moleſted any perſon whatſoever for matter of Religi<g ref="char:EOLhyphen"/>on, &amp;c.</hi>
+            </p>
+            <p>By the antient and later Writers, in ſhort, thus.</p>
+            <p>
+               <hi>Hillary</hi> againſt <hi>Auxentius,</hi> ſaith thus, <hi>The Chriſtian Church doth not perſecute, but is perſecuted.</hi>
+            </p>
+            <p>
+               <hi>Tertul. ad Scapulam, It agreeth both with humane Reaſon, and natural Equity, that every man worſhip God uncompelled, &amp;c. neither beſeemeth it any Religion to compel another to be of their Religion; which willingly and freely ſhould be imbraced, and not by conſtrant: foraſmuch</hi> (ſaith he) <hi>as the Offerings were required of thoſe that freely, and with good will offered, and not from the contrary.</hi>
+            </p>
+            <p>
+               <hi>Jerom in pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. lib.</hi> 4. <hi>in Jeremiam. Hereſie muſt be cut off with the Sword of the Spirit, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Bre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tius</hi> upon 1 <hi>Cor.</hi> 3. ſaith, <hi>No man hath power to make or give Laws to Chriſtians, whereby to bind their Conſciences; for willingly, freely, and uncompelled, with a ready deſire, and chearfull mind muſt thoſe that come, run unto Chriſt.</hi>
+            </p>
+            <pb n="17" facs="tcp:109711:9"/>
+            <p> Luther <hi>in Poſtil. Dom.</hi> 1. <hi>Poſt Epiphan.</hi> he ſaith, <hi>Let not Chriſtians be commanded, but exhorted; for he that willingly will not do that whereunto he is friendly exhorted, he is no Chri<g ref="char:EOLhyphen"/>ſtian: wherefore they that do compel thoſe that are not willing, ſhew thereby that they are not Chriſtian Preachers, but worldly Beadles.</hi>
+            </p>
+            <p>Again, upon 1 <hi>Pet.</hi> 3. he ſaith thus, ſpeaking of the Ci<g ref="char:EOLhyphen"/>vil Magiſtrate; <hi>If you cannot bear it, that any ſhould uſurp Authority where you have to command; How do you think that God ſhould ſuffer you to thruſt him from his Seat, and to ſeat your ſelf therein.</hi>
+            </p>
+            <p>
+               <hi>Chryſoſtom</hi> ſaith, <hi>It is not the manner of the Children of God to perſecute others to death about their Religion, &amp;c</hi>—Moreover (ſaid he) <hi>The ſhedding of Blood about Religion, is an evident token of Antichriſt.</hi> Relig. Uriſ. pag. 192.</p>
+            <p>
+               <hi>Haywardus</hi> ſaid, <hi>That the beſt Writers of that time did agree in one Opinion, and with</hi> Tertullian, Lactantius, Caſſidorus, <hi>and</hi> Joſephus, <hi>&amp;c. That People muſt inform men to embrace Religion, with Reaſon, and not compel them by Violence.</hi>
+            </p>
+            <p>
+               <hi>Lactantius</hi> ſaid, <hi>If you will with Blood, with Evil, and with Torments defend the worſhip, it ſhall not thereby be de<g ref="char:EOLhyphen"/>fended but polluted, lib.</hi> 5. <hi>cap.</hi> 20.</p>
+            <p>
+               <hi>Reinaldus</hi> ſaid, <hi>That he who with Impriſoning, and Perſe<g ref="char:EOLhyphen"/>cuting, ſeeketh to ſpread the Goſpel, and greaſeth his hands with Blood, ſhall much rather be looked upon for a Hunter, then a Preacher, or a Defender of the Chriſtian Religion.</hi>
+            </p>
+            <pb n="18" facs="tcp:109711:10"/>
+            <p> The Prince of <hi>Orange</hi> ſaith, <hi>Anno</hi> 1579. <hi>That it was impoſsible that the Land ſhould be kept in Peace, except there were a free Toleration in the Exerciſe of Religion.</hi>
+            </p>
+            <p>I might add the ſerious and ponderous Expreſſions of King <hi>Charles</hi> the firſt, concerning Toleration, and Liberty of Conſcience; as alſo King <hi>Charles</hi> the ſecond, that now is, his Speeches and Promiſes at <hi>Breda,</hi> with Speeches and Say<g ref="char:EOLhyphen"/>ings of theirs, are more ample, copious and pertinent, con<g ref="char:EOLhyphen"/>cerning toleration of Religion, and liberty for tender Con<g ref="char:EOLhyphen"/>ſciences, then any other King or Prince that I have here in<g ref="char:EOLhyphen"/>ſerted; but for brevity ſake I am conſtrained to omit them at preſent; becauſe I hope King <hi>Charles</hi> the ſecond, who now is, hath not forgotten his own Promiſes; neithers his Fathers Counſel, in order to Toleration and Liberty in mat<g ref="char:EOLhyphen"/>ters of Religion and Worſhip of God.</p>
+         </div>
+         <div type="part">
+            <pb n="19" facs="tcp:109711:10"/>
+            <head>A Poſtſcript.</head>
+            <p>IS it not a ſtrange thing that the <hi>Turk</hi> ſhould out-ſtrip a <hi>Chriſtian;</hi> for how many Religions are tolerated in ſeveral places in his Dominions, as <hi>Greeks, Jews, Ar<g ref="char:EOLhyphen"/>menians, Jacobites, Papiſts,</hi> and others. And alſo in <hi>Mogul</hi>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Country they do not force any. And in ſeveral places of <hi>Poland</hi> and <hi>Hungary</hi> they give Toleration.</p>
+            <p>And you know the <hi>Jews</hi> in Chriſt's time were under the <hi>Roman Empire,</hi> where lived divers Sects of Religion, as <hi>Herodians, Scribes,</hi> and <hi>Phariſees, Sadduces</hi> and <hi>Libertines, Thadaeans</hi> and <hi>Samaritans,</hi> with others, beſides the Religion of the <hi>Jews,</hi> Chriſt and his Apoſtles; all which differed from the common Religion of the State, which was like the worſhip of <hi>Diana,</hi> which almoſt the whole World then wor<g ref="char:EOLhyphen"/>ſhipped, <hi>Acts</hi> 19.20. All theſe ſeveral Religions lived under <hi>Caeſar</hi>'s Government, giving unto <hi>Caſar</hi> that which was his, and for their Religion and Conſciences, he left them to themſelves, as having no power over the Conſcience; and when any Tumults were raiſed by the perſecuting Jews, Prieſts and Profeſſors of the Law, againſt the <hi>Chriſtians;</hi> you may ſee the prudence of the Magiſtrate appeaſed them, <hi>Acts</hi> 18.14. and 19.35. I deſire that the Lord would ſo com<g ref="char:EOLhyphen"/>poſe and qualifie the minds and ſpirits of the <hi>Chriſtian</hi> Ma<g ref="char:EOLhyphen"/>giſtrates to do ſo now, as the Heathen Magiſtrates did then.</p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
